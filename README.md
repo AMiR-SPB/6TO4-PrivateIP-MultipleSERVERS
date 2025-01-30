@@ -53,7 +53,52 @@ apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/AMiR-SP
  
 <br>
 
+##  📜 Tips
 
+<details>
+  <summary>💡 Click For Tips</summary>
+
+1. **Configure Foreign Servers First**  
+   - Start by configuring your foreign servers first, then configure the Iranian server.
+
+2. **Tunnel Between 5 Foreign Servers and 1 Iranian Server**  
+   - You can create a tunnel between 5 foreign servers and 1 Iranian server, and vice versa.
+
+3. **Use of Private IPs for Load Balancing**  
+   - These private IPs can be used for load balancing, which I will provide soon.
+
+4. **Fixing Ping Issues Between Servers**  
+   - If pinging between the 5 foreign servers and 1 Iranian server does not work while creating the tunnel, reboot all the servers at once. This should likely fix the issue.
+
+5. **Alternative Solution for Connection Issues**  
+   - If there is a specific server connection issue (e.g., in the 5 foreign server and 1 Iranian server tunnel, server 3 is the problem), uninstall the problematic server and reconfigure it.
+
+6. **Ensure Correct Use of IPs**  
+   - Ensure that you use the correct IP for each server to avoid errors.
+   - For example, when configuring foreign server 1 and the Iranian server, you should use the Turkish server’s IP for foreign server 1, and use the German server’s IP for foreign server 2 and the Iranian server.
+
+7. **SSH or Ping from Iranian Server to Foreign Servers**  
+   - Before setting up the 6to4 tunnel, make sure you can SSH or ping from the Iranian server to the foreign servers.
+
+8. **Private IPs for Each Foreign Server**  
+   - In the Iranian server configuration, you will have a unique private IP for each foreign server. Ensure these IPs are entered correctly.
+
+9. **If the Tunnel is Panel-to-Panel**  
+   - For panel-to-panel tunnels, only the foreign server’s IP is required.
+
+10. **If FRP Tunnels Are Used**  
+    - For FRP tunnels, you will need the private IPs of each foreign server on the Iranian server.
+
+11. **Open Private IPs**  
+    - If the tunnel is panel-to-panel, you will need to open the private IPs.
+
+12. **Testing and Error Correction for Tunnel Configuration**  
+    - Through trial and error, you can configure the tunnels correctly.
+</details>
+
+  <br>
+
+  
 ##  📜 How To Use Script
 
 <details>
