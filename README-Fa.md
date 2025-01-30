@@ -22,9 +22,6 @@
     <img src="https://img.shields.io/github/v/release/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS.svg" alt="Release Badge">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/actions/workflow/status/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS/release.yml.svg" alt="Workflow Badge">
-  </a>
-  <a href="#">
     <img src="https://img.shields.io/github/downloads/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS/total.svg" alt="Downloads Badge">
   </a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
