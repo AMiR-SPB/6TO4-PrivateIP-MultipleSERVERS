@@ -53,10 +53,10 @@ apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/AMiR-SP
  
 <br>
 
-##  📜 Tips
+##  💡 Tips
 
 <details>
-  <summary>💡 Click For Tips</summary>
+  <summary>Click For Tips</summary>
 
 1. **Configure Foreign Servers First**  
    - Start by configuring your foreign servers first, then configure the Iranian server.
