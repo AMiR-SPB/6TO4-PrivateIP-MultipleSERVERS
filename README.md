@@ -17,7 +17,6 @@
 <br>
 
 [![](https://img.shields.io/github/v/release/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS.svg)](https://github.com/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS/releases)
-[![](https://img.shields.io/github/actions/workflow/status/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS/release.yml.svg)](#)
 [![Downloads](https://img.shields.io/github/downloads/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS/total.svg)](#)
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
