@@ -17,32 +17,24 @@
 </strong></h2>
 
 <br>
-<div dir="rtl">
-  <a href="https://github.com/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS/releases">
-    <img src="https://img.shields.io/github/v/release/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS.svg" alt="Release Badge">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/downloads/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS/total.svg" alt="Downloads Badge">
-  </a>
-  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-    <img src="https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true" alt="License Badge">
-  </a>
-
-  <br>
 
 <blockquote dir="rtl">
-  <strong>توضیحات :</strong> این پروژه فقط برای یادگیری شخصی و ارتباطات است، لطفاً برای مقاصد غیرقانونی استفاده نکنید، لطفاً آن را در محیط‌های تولیدی به کار نبرید.
+  <strong>توضیحات :</strong>
+  
+  - این پروژه فقط برای یادگیری شخصی و ارتباطات است، لطفاً برای مقاصد غیرقانونی استفاده نکنید .
+  - لطفاً آن را در محیط‌های تولیدی به کار نبرید .
 </blockquote>
 
 
   <br>
-
-  <h2>🔧 نصب و بروزرسانی</h2>
+  
+<div dir="rtl">
+  <h2>🔧 نصب و بروزرسانی</h2></div>
   <pre>
     apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/AMiR-SPB/6TO4-PrivateIP-MultipleSERVERS/main/6to4.sh --ipv4)
   </pre>
   <br>
-</div>
+
 
 
 ## 🌟 ویژگی‌ها 
@@ -159,7 +151,7 @@
 
 <br>
 
-## **🌐 انواع تونل 6 TO 4**
+## **🌐 انواع تونل 6TO4**
 <details dir="rtl">
   <summary>برای جزئیات تونل کلیک کنید</summary>
   
@@ -214,7 +206,7 @@
 
 ## 👀 پیش‌نمایش  
 <details dir="rtl">
-  <summary><strong>📷 برای مشاهده تصاویر بیشتر کلیک کنید</strong></summary>
+  <summary>📷 برای مشاهده تصاویر بیشتر کلیک کنید</summary>
   <br>
 
   <picture>
